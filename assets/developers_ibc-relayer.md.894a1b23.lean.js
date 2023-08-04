@@ -1,0 +1,1 @@
+import{_ as e,v as r,b as a}from"./chunks/framework.e3a3562a.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"developers/ibc-relayer.md","filePath":"developers/ibc-relayer.md"}'),t={name:"developers/ibc-relayer.md"};function s(o,c,i,d,n,p){return r(),a("div")}const f=e(t,[["render",s]]);export{_ as __pageData,f as default};
