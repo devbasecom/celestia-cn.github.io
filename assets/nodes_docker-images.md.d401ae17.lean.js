@@ -1,1 +1,0 @@
-import{_ as e,v as s,b as a}from"./chunks/framework.e3a3562a.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"nodes/docker-images.md","filePath":"nodes/docker-images.md"}'),t={name:"nodes/docker-images.md"};function r(o,d,n,c,i,m){return s(),a("div")}const f=e(t,[["render",r]]);export{p as __pageData,f as default};

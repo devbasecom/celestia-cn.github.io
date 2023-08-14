@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o}from"./chunks/framework.a76ee0a9.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"developers/optimism.md","filePath":"developers/optimism.md"}'),s={name:"developers/optimism.md"};function r(a,i,p,m,c,n){return t(),o("div")}const l=e(s,[["render",r]]);export{_ as __pageData,l as default};
